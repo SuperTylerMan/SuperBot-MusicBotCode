@@ -6,7 +6,7 @@ const opus = require('@discordjs/opus')
 const ffmpeg = require('ffmpeg-static')
 const scriptopus = require('opusscript')
 const { link } = require('ffmpeg-static')
-const TOKEN = ('NTg4NTE1MzQ5MTUwOTU3NTk3.XQGPoQ.s5w2FqO4ZntzBhgDuQjwJZEU82Q')
+const TOKEN = ("Place Bot Token Here")
 const PREFIX = 'b..'
 
 var servers = {};
